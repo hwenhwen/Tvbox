@@ -1,5 +1,6 @@
 {
-"spider": "https://raw.githubusercontents.com/liu673cn/mao/main/jar/custom_spider.jar",
+"spider":"https://raw.iqiq.io/liu673cn/box/main/sub/jar/2925.jar;md5;3BBE25C7A4BC9DD927D24258686517E1",
+
 
 "sites": [
 {"key":"*丝袜资源","name":"*丝袜资源","type":1,"api":"https://siwazyw.cc/api.php/provide/vod/","searchable":0,"quickSearch":0},
